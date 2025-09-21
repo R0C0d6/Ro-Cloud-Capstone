@@ -1,4 +1,4 @@
-Cloud Capstone Project. Secure Data Transfer & Translation Pipeline
+Secure Data Transfer & Translation Pipeline
 
 
 Overview
